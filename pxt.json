@@ -1,9 +1,10 @@
 {
-    "name": "backrooms final",
+    "name": "backrooms final - Copy",
     "description": "",
     "dependencies": {
         "device": "*",
-        "multiplayer": "*"
+        "multiplayer": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
     },
     "files": [
         "main.blocks",

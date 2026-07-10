@@ -7,7 +7,8 @@
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
         "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
         "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.1",
-        "sprite-scaling": "*"
+        "sprite-scaling": "*",
+        "corgio": "*"
     },
     "files": [
         "main.blocks",
